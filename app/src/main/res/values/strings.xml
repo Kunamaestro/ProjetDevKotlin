@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetKotlin</string>
+    <string-array name="tabTest">
+        <item>ahaha</item>
+        <item>ahaha</item>
+        <item>ahaha</item>
+    </string-array>
+</resources>
