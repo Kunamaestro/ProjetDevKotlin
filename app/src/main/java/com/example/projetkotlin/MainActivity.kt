@@ -10,9 +10,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val recyclerView = findViewById<RecyclerView>(R.id.toDoList)
-        val listToDo = listOf("Faire les courses","Dormir","Vendre du shit")
-        val adapter = ArrayAdapter(this,android.R.layout.simple_list_item_1,listToDo)
+        //val recyclerView = findViewById<RecyclerView>(R.id.toDoList)
+        //val listToDo = listOf("Faire les courses","Dormir","Vendre du shit")
+        //val adapter = ArrayAdapter(this,android.R.layout.simple_list_item_1,listToDo)
+
 
 
     }
